@@ -13,7 +13,7 @@
 EstateIQ is an end-to-end machine learning application that estimates residential property prices using the Ames Housing dataset. The project demonstrates the complete machine learning lifecycle, including exploratory data analysis, data preprocessing, feature engineering, model development, hyperparameter optimization, and deployment through a Streamlit web application.
 
 
-Application Link: [Insert Streamlit URL]
+**Try the application:**: [https://estateiq.streamlit.app ](https://estateiq.streamlit.app/ )
 
 ---
 
